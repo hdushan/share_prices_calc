@@ -1,0 +1,1 @@
+# Share price calc in different languages
