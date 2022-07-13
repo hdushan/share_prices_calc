@@ -1,6 +1,6 @@
 # Ruby
 ## RSpec framework
-```python
-gem install rspec
-rspec
+```ruby
+bundle install
+bundle exec rspec --pattern **/*_spec.rb --format documentation
 ```
